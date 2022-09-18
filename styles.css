@@ -1,0 +1,55 @@
+h1{
+  text-align: center;
+  font-size: 3.5rem;
+  font-family: monospace;
+  line-height: 1.5;
+  color: #EEEEEE;
+  padding-top: 15%;
+}
+
+
+.container-top{
+  padding: 3% 15% 7%;
+  background-color:#ff4c68;
+}
+
+.book-img{
+  padding-top: 10%;
+  width: 90%;
+}
+
+#features {
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+}
+
+.features-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.container-bottom {
+  background-color: #ff4c68;
+  padding: 7% 15% 3%;
+  text-align: center;
+}
+
+.love {
+  color: #fff;
+  padding-bottom: 4%;
+}
+
+#footer {
+  text-align: center;
+  padding: 5% 0% 2%;
+}
